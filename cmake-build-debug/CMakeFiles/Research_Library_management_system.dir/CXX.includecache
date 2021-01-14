@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/muhmd/New Volume/Projects/C++/Research Library management system/linked_list.cpp
+linked_list.h
+/media/muhmd/New Volume/Projects/C++/Research Library management system/linked_list.h
+vector
+-
+ctime
+-
+
+/media/muhmd/New Volume/Projects/C++/Research Library management system/linked_list.h
+iostream
+-
+
+/media/muhmd/New Volume/Projects/C++/Research Library management system/main.cpp
+iostream
+-
+linked_list.h
+/media/muhmd/New Volume/Projects/C++/Research Library management system/linked_list.h
+

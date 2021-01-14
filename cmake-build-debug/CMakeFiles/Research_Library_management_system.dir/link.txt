@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Research_Library_management_system.dir/main.cpp.o CMakeFiles/Research_Library_management_system.dir/linked_list.cpp.o  -o Research_Library_management_system 
